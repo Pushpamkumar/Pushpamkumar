@@ -17,9 +17,6 @@ Here are some ideas to get you started:
 # 💫 About Me:
 🧭 I’m currently working on<br>Building AI-driven applications and implementing end-to-end MLOps pipelines that combine Machine Learning, Deep Learning, and DevOps automation.<br>🤝 I’m looking to collaborate on<br>Projects related to AI/ML, Data Analytics, Full Stack Web Development, and Cloud DevOps solutions.<br>🙋‍♂️ I’m looking for help with<br>Enhancing model deployment strategies and integrating LLMs into real-world web and data platforms.<br>🌱 I’m currently learning<br>Advanced Machine Learning, Deep Learning architectures, and Large Language Models (LLMs) to strengthen my AI expertise.<br>💬 Ask me about<br>🚀 DevOps Tools: Docker, Jenkins, AWS, Terraform, Jira, Git/GitHub, Kubernetes<br>📊 Data Tools: MS Excel, Tableau, Power BI, Pandas, NumPy, PyTorch<br>💻 Web Development: HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB, TypeScript<br>🧠 Programming Languages: Python, C++<br>⚡ Fun fact<br>I love blending AI and DevOps to automate innovation — turning data into intelligence and code into impact 🚀
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/pushpamkumar669?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pushpamkumar01) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Pushpam Kumar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pushpamkumar669@gmail.com) 
 
