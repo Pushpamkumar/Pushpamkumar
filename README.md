@@ -1,15 +1,15 @@
 💫 Hi 👋, I'm Pushpam Kumar
 
-A passionate AI/ML Engineer || DevOps Enthusiast || Full Stack Developer from India
-📩 Email Me: pushpamkumar@gmail.com
- — for collaboration, projects, or just to connect! 😊
-🔭 I’m currently working on: Advanced Machine Learning and Deep Learning projects integrating MLOps pipelines.
-🌱 I’m currently learning: Large Language Models (LLMs), Advanced ML, and Deep Learning techniques.
-👯 I’m looking to collaborate on: AI/ML, Data Analytics, Web Development, and DevOps Automation projects.
-🤔 I’m looking for help with: Optimizing ML models and deploying them using CI/CD and Kubernetes.
-💬 Ask me about: AI/ML, DevOps Tools (Docker, Jenkins, AWS, Terraform, Git/GitHub, Jira, Kubernetes), Data Tools (Excel, Tableau, Power BI, Pandas, NumPy, PyTorch), and Web Dev Stack (HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB, TypeScript).
-📫 How to reach me: pushpamkumar@gmail.com
-😄 Pronouns: He/Him
+A passionate AI/ML Engineer || DevOps Enthusiast || Full Stack Developer from India<br>
+📩 Email Me: pushpamkumar@gmail.com<br>
+ — for collaboration, projects, or just to connect! 😊<br>
+🔭 I’m currently working on: Advanced Machine Learning and Deep Learning projects integrating MLOps pipelines.<br>
+🌱 I’m currently learning: Large Language Models (LLMs), Advanced ML, and Deep Learning techniques.<br>
+👯 I’m looking to collaborate on: AI/ML, Data Analytics, Web Development, and DevOps Automation projects.<br>
+🤔 I’m looking for help with: Optimizing ML models and deploying them using CI/CD and Kubernetes.<br>
+💬 Ask me about: AI/ML, DevOps Tools (Docker, Jenkins, AWS, Terraform, Git/GitHub, Jira, Kubernetes), Data Tools (Excel, Tableau, Power BI, Pandas, NumPy, PyTorch), and Web Dev Stack (HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB, TypeScript).<br>
+📫 How to reach me: pushpamkumar@gmail.com<br>
+😄 Pronouns: He/Him<br>
 ⚡ Fun fact: I love blending AI and DevOps to automate innovation — turning data into intelligence and code into impact 🚀
 
 ## 🌐 Socials:
