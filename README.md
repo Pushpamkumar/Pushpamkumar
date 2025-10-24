@@ -1,21 +1,16 @@
-## Hi there 👋
+💫 Hi 👋, I'm Pushpam Kumar
 
-<!--
-**Pushpamkumar/Pushpamkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# 💫 About Me:
-🧭 I’m currently working on<br>Building AI-driven applications and implementing end-to-end MLOps pipelines that combine Machine Learning, Deep Learning, and DevOps automation.<br>🤝 I’m looking to collaborate on<br>Projects related to AI/ML, Data Analytics, Full Stack Web Development, and Cloud DevOps solutions.<br>🙋‍♂️ I’m looking for help with<br>Enhancing model deployment strategies and integrating LLMs into real-world web and data platforms.<br>🌱 I’m currently learning<br>Advanced Machine Learning, Deep Learning architectures, and Large Language Models (LLMs) to strengthen my AI expertise.<br>💬 Ask me about<br>🚀 DevOps Tools: Docker, Jenkins, AWS, Terraform, Jira, Git/GitHub, Kubernetes<br>📊 Data Tools: MS Excel, Tableau, Power BI, Pandas, NumPy, PyTorch<br>💻 Web Development: HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB, TypeScript<br>🧠 Programming Languages: Python, C++<br>⚡ Fun fact<br>I love blending AI and DevOps to automate innovation — turning data into intelligence and code into impact 🚀
+A passionate AI/ML Engineer || DevOps Enthusiast || Full Stack Developer from India
+📩 Email Me: pushpamkumar@gmail.com
+ — for collaboration, projects, or just to connect! 😊
+🔭 I’m currently working on: Advanced Machine Learning and Deep Learning projects integrating MLOps pipelines.
+🌱 I’m currently learning: Large Language Models (LLMs), Advanced ML, and Deep Learning techniques.
+👯 I’m looking to collaborate on: AI/ML, Data Analytics, Web Development, and DevOps Automation projects.
+🤔 I’m looking for help with: Optimizing ML models and deploying them using CI/CD and Kubernetes.
+💬 Ask me about: AI/ML, DevOps Tools (Docker, Jenkins, AWS, Terraform, Git/GitHub, Jira, Kubernetes), Data Tools (Excel, Tableau, Power BI, Pandas, NumPy, PyTorch), and Web Dev Stack (HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB, TypeScript).
+📫 How to reach me: pushpamkumar@gmail.com
+😄 Pronouns: He/Him
+⚡ Fun fact: I love blending AI and DevOps to automate innovation — turning data into intelligence and code into impact 🚀
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/pushpamkumar669?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pushpamkumar01) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Pushpam Kumar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pushpamkumar669@gmail.com) 
