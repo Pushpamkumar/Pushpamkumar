@@ -1,16 +1,16 @@
 💫 Hi 👋, I'm Pushpam Kumar
 
-A passionate AI/ML Engineer || DevOps Enthusiast || Full Stack Developer from India<br>
+<strong>A passionate AI/ML Engineer || DevOps Enthusiast || Full Stack Developer from India</strong><br>
 📩 Email Me: pushpamkumar@gmail.com<br>
  — for collaboration, projects, or just to connect! 😊<br>
-🔭 I’m currently working on: Advanced Machine Learning and Deep Learning projects integrating MLOps pipelines.<br>
-🌱 I’m currently learning: Large Language Models (LLMs), Advanced ML, and Deep Learning techniques.<br>
-👯 I’m looking to collaborate on: AI/ML, Data Analytics, Web Development, and DevOps Automation projects.<br>
-🤔 I’m looking for help with: Optimizing ML models and deploying them using CI/CD and Kubernetes.<br>
-💬 Ask me about: AI/ML, DevOps Tools (Docker, Jenkins, AWS, Terraform, Git/GitHub, Jira, Kubernetes), Data Tools (Excel, Tableau, Power BI, Pandas, NumPy, PyTorch), and Web Dev Stack (HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB, TypeScript).<br>
+🔭 I’m currently working on: <strong>Advanced Machine Learning and Deep Learning projects integrating MLOps pipelines.</strong><br>
+🌱 I’m currently learning: <strong>Large Language Models (LLMs), Advanced ML, and Deep Learning techniques.</strong><br>
+👯 I’m looking to collaborate on: <strong>AI/ML, Data Analytics, Web Development, and DevOps Automation projects.</strong><br>
+🤔 I’m looking for help with: <strong>Optimizing ML models and deploying them using CI/CD and Kubernetes.</strong><br>
+💬 Ask me about: <strong>AI/ML, DevOps Tools (Docker, Jenkins, AWS, Terraform, Git/GitHub, Jira, Kubernetes), Data Tools (Excel, Tableau, Power BI, Pandas, NumPy, PyTorch), and Web Dev Stack (HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB, TypeScript).</strong><br>
 📫 How to reach me: pushpamkumar@gmail.com<br>
 😄 Pronouns: He/Him<br>
-⚡ Fun fact: I love blending AI and DevOps to automate innovation — turning data into intelligence and code into impact 🚀
+⚡ Fun fact: I love blending AI and DevOps to automate innovation — <strong>turning data into intelligence and code into impact 🚀</strong>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/pushpamkumar669?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pushpamkumar01) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Pushpam Kumar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pushpamkumar669@gmail.com) 
