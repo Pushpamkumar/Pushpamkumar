@@ -1,6 +1,6 @@
 💫 Hi 👋, I'm Pushpam Kumar
 
-<strong>A passionate AI/ML Engineer || DevOps Enthusiast || Full Stack Developer from India</strong><br>
+<strong>A passionate AI/ML Engineer || DevOps Enthusiast
 📩 Email Me: pushpamkumar@gmail.com<br>
  — for collaboration, projects, or just to connect! 😊<br>
 🔭 I’m currently working on: <strong>Advanced Machine Learning and Deep Learning projects integrating MLOps pipelines.</strong><br>
